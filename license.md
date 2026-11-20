@@ -193,6 +193,6 @@ Use the button in the Quick Start section.
 
 ---
 
-*Counter-Strike 2 · Updated 2026-11-19 · Shared under the MIT License*
+*Counter-Strike 2 · Updated 2026-11-20 · Shared under the MIT License*
 
-<!-- last reviewed 2026-11-19 -->
+<!-- last reviewed 2026-11-20 -->
